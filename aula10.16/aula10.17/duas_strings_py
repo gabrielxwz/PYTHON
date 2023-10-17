@@ -1,8 +1,11 @@
+# voce pode ESCAPAR aspas duplas utilizando aspas simples
+# vale reforçar que isso so vale para aspas duplas, outros caracteres nao.
 # texto1 recebe o valor "sou aluno do"
-texto1 = "sou aluno do"
+texto1 = '"sou aluno do"'
 
+# caracter de SCAPE e o \
 # texto2 recebe o valor "back-end"
-texto2 = "back-end"
+texto2 = "\"back-end\""
 
 # a função  pirnt, concatena e implime as duas variaveis na tela
-print(texto1, texto2)
+print(texto1, texto2) 
