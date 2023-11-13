@@ -8,4 +8,4 @@ print(var01)
 # os valores de uma variavel são mudaveis
 
 var03 = "b" * 30
-print(var03)
+print(var03) 
