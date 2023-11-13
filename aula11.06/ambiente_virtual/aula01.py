@@ -1,6 +1,6 @@
-nome = "levi"
-altura = 1.6
-peso = 60
+nome = "josé"
+altura = 1.7
+peso = 57
 imc = peso/altura * altura
 
 
