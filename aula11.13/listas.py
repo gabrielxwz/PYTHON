@@ -3,7 +3,8 @@
 # append - metodo que insere itens no final da lista
 # del - remove pelo indice especifico da lista
 # remove - remove um objeto especificado da lista
-# pop - remove o ultimo objeto da lista 
+# pop - remove o ultimo objeto da lista
+# insert - adiciona um obejto no inicio da lista
 
 lista = []
 print(lista, type(lista))
@@ -20,8 +21,8 @@ print(len(lista))
 lista.append('data')
 print(lista, type(lista))
 print(len(lista)) 
-#           0        1      2    3    4
-# REVERSE  -5       -4    -3   -2    -1
+#           0   1    2    3    4
+# REVERSE  -5  -4   -3   -2   -1
 lista = [ 'back', 'tarde', 21, True, 8.8 ]
 print(f' a quantidade de alunas na turma é: {lista[2]}')
 lista[2] = 22
