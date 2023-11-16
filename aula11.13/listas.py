@@ -1,3 +1,8 @@
+# Lista é um conjunto de elementos.
+# Uma lista é Mutável, Iterável, Suporta Vários Tipos de dados, possui indices, aceita métodos e fatiamento .
+# Também teem seu próprio CRUD (CreateReadUpdateDelete)
+#                              (CriarLerAtualizarApagar)
+# Métodos: append, insert, del, remove, pop, len, parametro: []
 # uma lista é representada pelos []
 # len - metodo que retorna a quantidade de itens de uma lista
 # append - metodo que insere itens no final da lista

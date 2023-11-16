@@ -1,0 +1,3 @@
+# Tuplas são IMUTÁVEIS.
+# Parâmetro = ()
+
