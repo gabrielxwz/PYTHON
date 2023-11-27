@@ -14,5 +14,4 @@ if achei >= 0:
     print(f'A expressão foi encontrada no indice { achei }')
 else:
     print(f'A expressão NÃO foi encontrada')    
-'''
-saida
+"""
