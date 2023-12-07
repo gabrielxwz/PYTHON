@@ -7,7 +7,7 @@
 
 frase = " A banana é amarela e o abacate é verde.".lower()
 letra = 'e'
-email = ' paulo.junior@gmail.com '
+email = ' jose@gmail.com'
 print(f'A letra "{ letra }" aparece { frase.count(letra)} vezes na frase" { frase }" .')
 achei = frase.find('é')
 if achei >= 0:
